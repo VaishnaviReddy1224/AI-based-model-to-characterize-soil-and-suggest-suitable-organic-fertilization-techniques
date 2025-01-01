@@ -1,4 +1,4 @@
-#Title:  
+# Title:  
 **AI-based model to characterize soil and suggest suitable organic fertilization techniques**  
 
 **Project Supervisor:** Dr. Arvind Kumar  
