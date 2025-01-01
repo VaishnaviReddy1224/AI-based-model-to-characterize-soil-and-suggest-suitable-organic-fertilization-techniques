@@ -1,11 +1,11 @@
-####Title:  
+#Title:  
 **AI-based model to characterize soil and suggest suitable organic fertilization techniques**  
 
 **Project Supervisor:** Dr. Arvind Kumar  
 **Cluster Name:** CS1  
 **Project Coordinator:** Dr. Ambar Bajpai  
 
-### Mini Project (PROJ2999) Outcome:  
+## Mini Project (PROJ2999) Outcome:  
 1. **Soil data collection of different types:**  
    Soil data collection involves gathering information on various types of soil to understand their physical and chemical properties.  
 
@@ -17,7 +17,7 @@
 
 ---
 
-### Extended Project Abstract   
+## Extended Project Abstract   
 
 The project aims to create an AI-driven system to evaluate soil properties and recommend appropriate organic fertilization methods tailored for the Agricultural area. By utilizing machine learning algorithms, the system will assess various soil parameters, including pH levels, moisture content, nutrient concentrations, and organic matter presence. Data for these parameters will be gathered through an embedded system equipped with sensors, enabling real-time soil monitoring. This embedded system will process the collected sensor data and send it to a central processing unit, where machine learning models will analyze the information to predict soil health and suggest optimal organic fertilization strategies.  
 
@@ -27,7 +27,7 @@ The outcome of this project will be a comprehensive, cost-effective solution tha
 
 ---
 
-### Extended Project Objectives:  
+## Extended Project Objectives:  
 - **Real-Time Soil Analysis:**  
   Develop an embedded system integrated with sensors to monitor soil parameters like pH, moisture, nutrient levels, and organic matter, ensuring precise and immediate data collection.  
 
@@ -39,7 +39,7 @@ The outcome of this project will be a comprehensive, cost-effective solution tha
 
 ---
 
-### Gantt Chart for Extended Project PROJ3999  
+## Gantt Chart for Extended Project PROJ3999  
 - **Introduction**  
 - **Dataset Collection**  
 - **Training Machine Learning Models**  
@@ -55,7 +55,7 @@ The outcome of this project will be a comprehensive, cost-effective solution tha
 
 ---
 
-### Suggested IEEE Conference Targets:  
+## Suggested IEEE Conference Targets:  
 1. **IEEE International Conference on Emerging Technologies and Applications (ICETA-2025)**  
    - Dates: February 21–23, 2025  
 
@@ -64,7 +64,7 @@ The outcome of this project will be a comprehensive, cost-effective solution tha
 
 ---
 
-### Group Details:  
+## Group Details:  
 - **BU21EECE0100488**: P. Vaishnavi  
 - **BU21EECE0100498**: K. Gouthami  
 - **BU21EECE0100105**: Ayyapu Reddy Dande  
