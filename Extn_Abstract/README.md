@@ -1,9 +1,3 @@
-# Department of Electrical, Electronics, and Communication Engineering  
-**GITAM School of Technology,**  
-**GITAM (Deemed to be University), Bengaluru, India**  
-
-## Extended Abstract PROJ3999 (Major Project)  
-
 ### Title:  
 **AI-based model to characterize soil and suggest suitable organic fertilization techniques**  
 
