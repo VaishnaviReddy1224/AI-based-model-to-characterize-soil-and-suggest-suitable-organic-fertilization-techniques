@@ -6,9 +6,13 @@
 These define the overall system objectives and constraints.
 
 **AI-Based Fertilization Recommendation**: The system must suggest suitable organic fertilizers based on soil data and crop requirements.
+
 **Data Integration & Processing**: The platform should integrate multiple datasets, including soil test results and nutrient requirements.
+
 **User-Friendly Application**: Farmers should be able to easily input soil data and receive recommendations via a simple interface.
+
 **Model Interpretability**: The AI model should provide transparent and understandable recommendations.
+
 **Software Requirements**:
 - MATLAB GUI for visualization and user interaction.
 - AI Models: SVM, KNN, and Decision Tree for soil and crop recommendations.
