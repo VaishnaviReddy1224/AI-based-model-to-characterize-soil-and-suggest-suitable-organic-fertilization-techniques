@@ -1,3 +1,4 @@
 Architecture Design:
-![image](https://github.com/user-attachments/assets/069620c9-e421-4b8d-8574-d5caaac89964)
+![image](![image](https://github.com/user-attachments/assets/69d950af-2d99-4ee1-acb5-e045bcb85346)
+
 
