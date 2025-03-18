@@ -51,7 +51,7 @@ The outcome of this project will be a comprehensive, cost-effective solution tha
 - 24-Nov to 04-Dec: Dataset Collection  
 - 04-Dec to 14-Dec: Training Machine Learning  
 - 14-Dec to 24-Dec: Integrating Sensors  
-- 24-Dec to 03-Jan: Organic Fertilization Dataset  
+- 24-Dec to 03-Jan: Organic Fertilization Recommendation
 
 ---
 
